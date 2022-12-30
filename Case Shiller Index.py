@@ -18,7 +18,7 @@ st.title('S&P/Case-Shiller Home Price Index')
 
 
 #S&P/Case-Shiller AZ-Phoenix Home Price Index (PHXRNSA)
-fred_api= 'b8830a9164d01e4df457386e8e500095'
+fred_api= '###########################'
 series_id = 'PHXRNSA'
 params = {
     'series_id': series_id,
