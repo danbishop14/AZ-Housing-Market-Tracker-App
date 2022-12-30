@@ -5,3 +5,6 @@ altair
 pandas
 plotly.express
 requests
+pandas_datareader.data
+warnings
+datetime
