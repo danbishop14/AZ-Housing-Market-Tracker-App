@@ -113,7 +113,7 @@ current_hs_yoy2 = homes_sold_yoy_number
 
 #Pulling mortgage data from the FRED API.
 #Collecting the 30 year fixed rate from FRED
-api_key = '29db53433b4fde809bce089566109fc7'
+api_key = '#################################'
 data = web.DataReader("MORTGAGE30US", "fred", api_key=api_key)
 # print the latest value
 latest_mortgage_rate = data["MORTGAGE30US"].iloc[-1]
