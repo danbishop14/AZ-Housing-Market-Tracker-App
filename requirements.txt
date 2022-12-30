@@ -6,5 +6,4 @@ pandas
 plotly.express
 requests
 pandas_datareader
-warnings
 datetime
